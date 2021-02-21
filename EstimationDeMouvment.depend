@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1608039461 source:c:\users\moha1\documents\movement\estimationdemouvment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myBmpGris.h"
+
+1607436770 c:\users\moha1\documents\movement\estimationdemouvment\mybmpgris.h
+	<stdlib.h>
+	<stdio.h>
+
+1607436769 source:c:\users\moha1\documents\movement\estimationdemouvment\mybmpgris.c
+	"myBmpGris.h"
+
+1607436769 source:c:\users\amine\desktop\estimationdemouvment\mybmpgris.c
+	"myBmpGris.h"
+
+1607436770 c:\users\amine\desktop\estimationdemouvment\mybmpgris.h
+	<stdlib.h>
+	<stdio.h>
+
+1611513270 source:c:\users\amine\desktop\estimationdemouvment\utilitaire.c
+	"utilitaire.h"
+
+1611514297 c:\users\amine\desktop\estimationdemouvment\utilitaire.h
+	<stdlib.h>
+	<stdio.h>
+	"myBmpGris.h"
+
+1611514319 source:c:\users\amine\desktop\estimationdemouvment\horn_schunk.c
+	"Horn_Schunk.h"
+	"utilitaire.h"
+
+1611513814 c:\users\amine\desktop\estimationdemouvment\horn_schunk.h
+
+1611513929 source:c:\users\amine\desktop\estimationdemouvment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myBmpGris.h"
+	"utilitaire.h"
+	"horn_schunk.h"
+	"Gauss.h"
+
+1611515041 source:c:\users\amine\desktop\estimationdemouvment\gauss.c
+	"Gauss.h"
+	"utilitaire.h"
+	"myBmpGris.h"
+
+1611501600 c:\users\amine\desktop\estimationdemouvment\gauss.h
+	"utilitaire.h"
+	<math.h>
+
+1611515041 source:c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\gauss.c
+	"Gauss.h"
+	"utilitaire.h"
+	"myBmpGris.h"
+
+1611501600 c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\gauss.h
+	"utilitaire.h"
+	<math.h>
+
+1611517312 c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\utilitaire.h
+	<stdlib.h>
+	<stdio.h>
+	"myBmpGris.h"
+
+1607436770 c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\mybmpgris.h
+	<stdlib.h>
+	<stdio.h>
+
+1611518038 source:c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myBmpGris.h"
+	"utilitaire.h"
+	"horn_schunk.h"
+	"Gauss.h"
+
+1611513814 c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\horn_schunk.h
+
+1607436769 source:c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\mybmpgris.c
+	"myBmpGris.h"
+
+1611517303 source:c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\utilitaire.c
+	"utilitaire.h"
+
+1611518391 source:c:\users\amine\desktop\estimationdemouvment\estimationdemouvment\estimationdemouvment\code\horn_schunk.c
+	"Horn_Schunk.h"
+	"utilitaire.h"
+
