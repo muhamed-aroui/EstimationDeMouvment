@@ -27,4 +27,4 @@ régularisation.
 ### les images d'entrées 
 ![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/image1.bmp?raw=true)   ![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/image2.bmp?raw=true) 
 ### Resultats (visualisation via quiver matlab )
-![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/MultiResolution.PNG?raw=true)  ![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/MultiResolution.PNG?raw=true)
+![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/MultiResolution.PNG?raw=true)     ![alt text](https://github.com/muhamed-aroui/EstimationDeMouvment/blob/master/zoomedV.PNG?raw=true)
